@@ -1,5 +1,3 @@
-import React from "react";
-
 import { Button } from "./Input/Button/Button";
 import "./header.css";
 
